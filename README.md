@@ -3,6 +3,8 @@ ESP32-CAM Smart Door Access System
 📷 IoT-Based Home Security with Real-Time Face Detection & Smart Bell Technology 
 
 This repository contains the implementation and documentation for a Smart Home Door Access System powered by the ESP32-CAM. This project enhances traditional home security by integrating face detection algorithms, a smart bell interface, and wireless image transmission, allowing homeowners to monitor visitors and control access remotely via a mobile device or web server. 
+
+
 📋 Table of Contents 
 
      Project Overview 
